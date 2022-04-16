@@ -1481,3 +1481,13 @@ frontend/node_modules/whatwg-url/lib/URLSearchParams-impl.js
 frontend/node_modules/whatwg-url/lib/URLSearchParams.js
 frontend/node_modules/whatwg-url/lib/utils.js
 frontend/node_modules/whatwg-url/lib/VoidFunction.js
+frontend/node_modules/cors/CONTRIBUTING.md
+frontend/node_modules/cors/HISTORY.md
+frontend/node_modules/cors/LICENSE
+frontend/node_modules/cors/package.json
+frontend/node_modules/cors/README.md
+frontend/node_modules/cors/lib/index.js
+frontend/node_modules/object-assign/index.js
+frontend/node_modules/object-assign/license
+frontend/node_modules/object-assign/package.json
+frontend/node_modules/object-assign/readme.md
